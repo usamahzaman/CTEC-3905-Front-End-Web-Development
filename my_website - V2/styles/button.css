@@ -1,0 +1,34 @@
+button
+{
+	width: 120px;
+	height: 40px;
+	border-radius: 10px;
+	font-size: 20px;
+	margin: 10px;
+	border-color: #0000ff;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+button:link
+{
+	background-color:none;
+}
+
+button:visited
+{
+	background-color:blue;
+}
+
+button:hover
+{
+	background-color:red;
+}
+
+button:active
+{
+	background-color:green;
+}
